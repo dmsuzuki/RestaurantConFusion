@@ -30,3 +30,5 @@ This course will give you an overview of client-side web frameworks, in particul
 
 ----------
 ![Screencapture1](https://github.com/dmsuzuki/RestaurantConFusion/blob/master/screencapture1.png)
+
+![Screencapture2](https://github.com/dmsuzuki/RestaurantConFusion/blob/master/screencapture2.png)
