@@ -27,8 +27,3 @@ This course will give you an overview of client-side web frameworks, in particul
 **Week 4:** 
 
 >This module rounds out our discussions on Bootstrap JavaScript components. Then we discuss CSS preprocessors, Less and Sass. Finally, Node.js and NPM and Bower are presented. The final assignment of this course needs to be completed at the end of this module. 
-
-----------
-![Screencapture1](https://github.com/dmsuzuki/RestaurantConFusion/blob/master/screencapture1.png)
-
-![Screencapture2](https://github.com/dmsuzuki/RestaurantConFusion/blob/master/screencapture2.png)
