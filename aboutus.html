@@ -78,7 +78,8 @@
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a data-toggle="modal" data-target="#loginModal">
+                        <!--<a data-toggle="modal" data-target="#loginModal">-->
+                        <a id="loginBtn">
                             <span class="glyphicon glyphicon-log-in"></span> Login
                         </a>
                     </li>
@@ -352,6 +353,13 @@
 
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+
+    <!-- Login Button -->
+    <script>
+        $("#loginBtn").click(function(){
+            $("#loginModal").modal();
+        });
+    </script>
 
 </body>
 
